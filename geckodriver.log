@@ -224,3 +224,10 @@ JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource:
 1482953664873	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
 1482953664876	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63859
 1482953665741	Marionette	INFO	Listening on port 63859
+1483560171920	geckodriver	INFO	Listening on 127.0.0.1:50254
+1483560173922	mozprofile::profile	INFO	Using profile path C:\Users\babych\AppData\Local\Temp\rust_mozprofile.cVpAmuTSyEoa
+1483560173922	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1483560173944	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50260
+1483560175162	Marionette	INFO	Listening on port 50260
+JavaScript warning: http://desktop-ng-test.fastlaneams.com/static/js/main.d2178e21.js, line 47: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create

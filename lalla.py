@@ -14,7 +14,7 @@ email.clear()
 email.send_keys('qa.test133@gmail.com' + Keys.RETURN)
 
 password = browser.find_element_by_name('password')
-email.clear()
+password.clear()
 password.send_keys('123456' + Keys.RETURN)
 
 signIn = browser.find_element_by_xpath("//button[@type='submit']")
