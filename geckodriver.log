@@ -231,3 +231,17 @@ JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource:
 1483560175162	Marionette	INFO	Listening on port 50260
 JavaScript warning: http://desktop-ng-test.fastlaneams.com/static/js/main.d2178e21.js, line 47: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
 JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1483560374235	geckodriver	INFO	Listening on 127.0.0.1:50366
+1483560376247	mozprofile::profile	INFO	Using profile path C:\Users\babych\AppData\Local\Temp\rust_mozprofile.6Jnql0u7ZmLV
+1483560376268	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1483560376269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50372
+1483560376946	Marionette	INFO	Listening on port 50372
+JavaScript warning: http://desktop-ng-test.fastlaneams.com/static/js/main.d2178e21.js, line 47: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1483806073076	geckodriver	INFO	Listening on 127.0.0.1:62779
+1483806075102	mozprofile::profile	INFO	Using profile path C:\Users\babych\AppData\Local\Temp\rust_mozprofile.xGq01fUegFaZ
+1483806075124	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1483806075140	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62791
+1483806076254	Marionette	INFO	Listening on port 62791
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://desktop-ng-test.fastlaneams.com/static/js/main.29ba4a54.js, line 47: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
